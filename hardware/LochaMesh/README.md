@@ -26,5 +26,5 @@ https://nl.mouser.com/ProductDetail/Espressif-Systems/ESP-WROVER-KIT-VB?qs=w%2Fv
 # Links
 
 * [https://locha.io/](Locha.io)
-* Podcast Bitcoin & Co [https://overcast.fm/+LYk5bfx8](Bitcoin & Co - How Locha Mesh Let?s You Chat and Send Bitcoin Anonymously Without Internet)
+* [https://overcast.fm/+LYk5bfx8] Podcast Bitcoin & Co (Bitcoin & Co - How Locha Mesh Let?s You Chat and Send Bitcoin Anonymously Without Internet)
 
