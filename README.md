@@ -16,3 +16,4 @@ Most people in this group would like to use the mesh for using Bitcoin, but the 
 # Resources
 * [Chat](https://t.me/DeBitcoinMesh)!
 * We are looking at Locha ([Github](https://github.com/btcven/locha)].
+* Wikipedia on [Wireless mess networks](https://en.wikipedia.org/wiki/Wireless_mesh_network)
