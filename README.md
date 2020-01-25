@@ -12,3 +12,7 @@ Use this repository to create concepts and plans for networking and hardware. PR
 # History
 This project grew from the [De Bitcoin Mesh](https://t.me/DeBitcoinMesh) chat. 
 Most people in this group would like to use the mesh for using Bitcoin, but the plans are broader now.
+
+# Resources
+* [Chat](https://t.me/DeBitcoinMesh)!
+* We are looking at Locha ([Github](https://github.com/btcven/locha)].
