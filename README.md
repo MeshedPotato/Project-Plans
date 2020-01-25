@@ -1,17 +1,29 @@
 Need help? Visit the [chat](https://t.me/DeBitcoinMesh)!
 --------------------------------------------------------
 
+Here we will create a decentralized Mesh network for people in The Netherlands, to use internet-like services, without an ISP.
 
+# Help out
+* Join the [chat](https://t.me/DeBitcoinMesh), share expertise, ask questions
+* View [issues](https://github.com/MeshedPotato/Project-Plans/issues) for stuff to help on
 
-# Concept
-Create a decentralized Mesh network for people in The Netherlands, to use internet-like services, without an ISP.
-
-# This repository
-Use this repository to create concepts and plans for networking and hardware. PRs welcome/
+# Repository
+Use this repository to create concepts and plans for networking and hardware.
+```
+├── applications
+│   └── What can we run on the mesh: software.
+├── hardware
+│   └── What hardware do you need?
+├── networking
+    └── Holds ideas about networking, routing (mesh software part)
+```
 
 # History
 This project grew from the [De Bitcoin Mesh](https://t.me/DeBitcoinMesh) chat. 
 Most people in this group would like to use the mesh for using Bitcoin, but the plans are broader now.
+
+## Name
+The Dutch like [mashed potatos](https://nl.wikipedia.org/wiki/Aardappelpuree). Take your fork and mash the potatoes on your plate! *Meshed* potato is a play on words. We are people in the Netherlands (around, too?) and we want to build a mesh network!
 
 # Resources
 * [http://meshedpotato.network/](http://meshedpotato.network/) (WIP / [https://github.com/MeshedPotato/meshedpotato.github.io](github))
