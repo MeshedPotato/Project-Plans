@@ -1,3 +1,8 @@
+Need help? Visit the [chat](https://t.me/DeBitcoinMesh)!
+--------------------------------------------------------
+
+
+
 # Concept
 Create a decentralized Mesh network for people in The Netherlands, to use internet-like services, without an ISP.
 
