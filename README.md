@@ -22,6 +22,9 @@ Use this repository to create concepts and plans for networking and hardware.
 This project grew from the [De Bitcoin Mesh](https://t.me/DeBitcoinMesh) chat. 
 Most people in this group would like to use the mesh for using Bitcoin, but the plans are broader now.
 
+## Name
+The Dutch like [mashed potatos](https://nl.wikipedia.org/wiki/Aardappelpuree). Take your fork and mash the potatoes on your plate! *Meshed* potato is a play on words. We are people in the Netherlands (around, too?) and we want to build a mesh network!
+
 # Resources
 * [http://meshedpotato.network/](http://meshedpotato.network/) (WIP / [https://github.com/MeshedPotato/meshedpotato.github.io](github))
 * [Chat](https://t.me/DeBitcoinMesh)!
