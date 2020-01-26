@@ -8,7 +8,7 @@ There are a lot of locations to go for information. Below list should help.
 
 * For any questions, you can ask in the [chat](https://t.me/DeBitcoinMesh), or send an email to ![you should see an email address here](https://meshedpotato.network/assets/img/email.png)
 * The main repo is [https://github.com/MeshedPotato/Project-Plans](MeshedPotato/Project-Plans), please browse through it and add information! Send an email to above address for access if needed, or ask in the chat.
-* View [issues](https://github.com/MeshedPotato/Project-Plans/issues) for stuff to help on
+* View [issues](https://github.com/MeshedPotato/Project-Plans/issues) for stuff to help on. We try to tag ["issues" good for beginners](https://github.com/MeshedPotato/Project-Plans/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 * The website is live at [https://meshedpotato.network/](meshedpotato.network)
 * There is a Telegram channel with [https://t.me/MeshedPotatoGithub](github activity) to follow
 
