@@ -33,6 +33,5 @@ The Dutch like [mashed potatos](https://nl.wikipedia.org/wiki/Aardappelpuree). T
 # Resources
 * [http://meshedpotato.network/](http://meshedpotato.network/) (WIP / [https://github.com/MeshedPotato/meshedpotato.github.io](github))
 * [Chat](https://t.me/DeBitcoinMesh)!
-* We are looking at Locha ([Github](https://github.com/btcven/locha)].
+* We are looking at Locha ([Github](https://github.com/btcven/locha)).
 * Wikipedia on [Wireless mess networks](https://en.wikipedia.org/wiki/Wireless_mesh_network)
-
