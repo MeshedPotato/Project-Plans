@@ -7,10 +7,10 @@ Here we will create a decentralized Mesh network for people in The Netherlands, 
 There are a lot of locations to go for information. Below list should help.
 
 * For any questions, you can ask in the [chat](https://t.me/DeBitcoinMesh), send an email to ![you should see an email address here](https://meshedpotato.network/assets/img/email.png) or [#faq](read the FAQ)
-* The main repo is [https://github.com/MeshedPotato/Project-Plans](MeshedPotato/Project-Plans), please browse through it and add information! Send an email to above address for access if needed, or ask in the chat.
+* The main repo is [https://github.com/MeshedPotato/Project-Plans](MeshedPotato/Project-Plans) , please browse through it and add information! Send an email to above address for access if needed, or ask in the chat.
 * View [issues](https://github.com/MeshedPotato/Project-Plans/issues) for stuff to help on. We try to tag ["issues" good for beginners](https://github.com/MeshedPotato/Project-Plans/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22).
 * The website is live at [https://meshedpotato.network/](meshedpotato.network)
-* There is a Telegram channel with [https://t.me/MeshedPotatoGithub](github activity) to follow
+* There is a Telegram channel with [github activity](https://t.me/MeshedPotatoGithub) to follow
 
 # Repository
 Use this repository to create concepts and plans for networking and hardware.
@@ -50,7 +50,7 @@ No, it can live 'next to' the current internet. Maybe some nodes will be connect
 It started as a bitcoin idea, but there _must_ be more people interested, so everyone is welcome.
 
 ## What will we be able to do with it?
-First ideas are: Send messages and send bitcoin transactions. See [https://github.com/MeshedPotato/Project-Plans/tree/master/applications](Applications).
+First ideas are: Send messages and send bitcoin transactions. See [https://github.com/MeshedPotato/Project-Plans/tree/master/applications](Applications)
 
 ## What does it cost?
 As it looks now, we will follow Locha development. Both development kits (lower range) and final units will probably cost around or below 100 EUR.
@@ -59,11 +59,11 @@ As it looks now, we will follow Locha development. Both development kits (lower 
 For now, yes. But join the chat if you think you can help, even if you are outside of NL!
 
 ## I did not find my question
-Ask in the [chat](https://t.me/DeBitcoinMesh) or [https://github.com/MeshedPotato/Project-Plans/issues/new](open an issue) on this GitHub!
+Ask in the [chat](https://t.me/DeBitcoinMesh) or [open an issue](https://github.com/MeshedPotato/Project-Plans/issues/new) on this GitHub!
 
 
 # History
-This project grew from the [De Bitcoin Mesh](https://t.me/DeBitcoinMesh) chat. 
+This project grew from the [De Bitcoin Mesh](https://t.me/DeBitcoinMesh) chat.
 Most people in this group would like to use the mesh for using Bitcoin, but the plans are broader now.
 
 ## Name
@@ -73,4 +73,4 @@ The Dutch like [mashed potatos](https://nl.wikipedia.org/wiki/Aardappelpuree). T
 * [http://meshedpotato.network/](http://meshedpotato.network/) (WIP / [https://github.com/MeshedPotato/meshedpotato.github.io](github))
 * [Chat](https://t.me/DeBitcoinMesh)!
 * We are looking at Locha ([Github](https://github.com/btcven/locha)).
-* Wikipedia on [Wireless mess networks](https://en.wikipedia.org/wiki/Wireless_mesh_network)
+* Wikipedia on [Wireless mesh networks](https://en.wikipedia.org/wiki/Wireless_mesh_network)
