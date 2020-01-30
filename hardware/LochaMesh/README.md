@@ -16,6 +16,9 @@ The development board is using a ESP32 chip that can be used to connect to a pho
 
 If you run into any problems that can't be solved with help from people in our team, the LochaMesh devs are in this telegram channel: https://t.me/Locha_io
 
+## Getting started
+See the guide on how to get started here: https://github.com/MeshedPotato/Project-Plans/blob/master/hardware/LochaMesh/getting-started.md
+
 ### Shop links
 CC1312R1
 https://nl.mouser.com/ProductDetail/Texas-Instruments/LAUNCHXL-CC1312R1?qs=sGAEpiMZZMve4%2FbfQkoj%252BI9NubwUAGvrf0NOZQH%252Bvo0%3D
