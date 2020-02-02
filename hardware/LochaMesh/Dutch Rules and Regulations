@@ -1,0 +1,17 @@
+We will chiefly focus on the frequencies available without a licence.
+'Korteafstandapparatuur;Subcategorie 1. : radioapparaten bestemd voor telemetrie, telecommand,
+alarmering, data in het algemeen en andere soortgelijke toepassingen (Non specific SRD)
+
+The frequency spectrum we will use is the 868MHz band, which is described in H2:
+
+Frequentieband:               865,000 – 868,600 MHz
+Vermogen:                     25 mW e.r.p. ( https://nl.wikipedia.org/wiki/Effective_radiated_power )
+Toegang en bezetting regels:  < 1,0%
+Opmerkingen bij toegang en bezetting regels:
+In plaats van de duty-cycle mag er ook gebruik worden gemaakt van technieken om toegang te krijgen tot spectrum 
+en interferentie te onderdrukken met een vermogen dat ten minste equivalent is aan dat van de technieken die zijn 
+beschreven in de geharmoniseerde normen welke zijn vastgesteld in het kader van richtlijn nr. 1999/5/EG van het 
+Europees parlement en de Raad van de Europese Unie van 9 maart 1999 betreffende radioapparatuur en 
+telecommunicatie-eindapparatuur en de wederzijdse erkenning van hun conformiteit.
+
+Source: https://wetten.overheid.nl/BWBR0036378/2016-12-28
