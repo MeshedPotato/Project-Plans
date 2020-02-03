@@ -1,7 +1,7 @@
 
 Before getting started with its recommended to first read the readme: https://github.com/MeshedPotato/Project-Plans/blob/master/hardware/LochaMesh/README.md
 
-To get (dev) node running we need to install the (Turpial firmware)[https://github.com/btcven/turpial-firmware/] on the dev board (ESP32), after that we can setup the radio board (CC1312R1) with the right firmware and then connect both of the boards.
+To get (dev) node running we need to install the [Turpial firmware](https://github.com/btcven/turpial-firmware/) on the dev board (ESP32), after that we can setup the radio board (CC1312R1) with the right firmware and then connect both of the boards.
 
 # 356-ESPWROVER-KIT-VB (ESP32)
 
