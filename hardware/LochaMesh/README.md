@@ -4,7 +4,7 @@ Some people have been looking at locha (compatible) hardware
 ## Locha
 
 Some people have been looking at locha (compatible) hardware
-LochaMesh is currently building dedicated mesh hardware, utilising 6LoWPAN (https://en.wikipedia.org/wiki/6LoWPAN) tech. These dedicated devices are supposed to have higher range as the develop boards but they are all compatable. For now we want to test/develop on the develop boards. Boards that should be compatable are listed here: https://github.com/btcven/locha/blob/master/documents/turpial-description.md
+LochaMesh is currently building dedicated mesh hardware, utilising 6LoWPAN (https://en.wikipedia.org/wiki/6LoWPAN) tech. These dedicated devices are supposed to have higher range as the develop boards but they are all compatible. For now we want to test/develop on the develop boards. Boards that should be compatable are listed here: https://github.com/btcven/locha/blob/master/documents/turpial-description.md
 
 ## Development
 LochaMesh devs are currently using the following boards, its recommended that you use these:
@@ -30,4 +30,3 @@ https://nl.mouser.com/ProductDetail/Espressif-Systems/ESP-WROVER-KIT-VB?qs=w%2Fv
 
 * [https://locha.io/](Locha.io)
 * [https://overcast.fm/+LYk5bfx8] Podcast Bitcoin & Co (Bitcoin & Co - How Locha Mesh Let?s You Chat and Send Bitcoin Anonymously Without Internet)
-
